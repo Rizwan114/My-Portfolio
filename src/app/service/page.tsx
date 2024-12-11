@@ -23,7 +23,7 @@ function Page() {
         of API interactions. 🚀
       </p>
       <Footer></Footer>
-      console.log("hello service")
+      
     </div>
 
     
