@@ -2,6 +2,7 @@
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
 import Footer from "./components/Footer/Footer";
+import Hero2 from "./components/hero2/page"
 
 
 
@@ -24,6 +25,7 @@ export default function Home() {
         What's next on our coding adventure?
       </p>
       <Footer></Footer>
+      <Hero2/>
     </div>
   );
 }
