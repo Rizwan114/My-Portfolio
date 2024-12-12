@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/header/Header";
 import Hero from "../components/hero/Hero";
 import Footer from "../components/Footer/Footer";
+
 const Page = () => {
   return (
     <div className="bg-zinc-400">
@@ -21,6 +22,8 @@ const Page = () => {
       </p>
 
       <Footer></Footer>
+
+    
     </div>
   );
 };

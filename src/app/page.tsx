@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
 import Footer from "./components/Footer/Footer";
@@ -23,12 +23,6 @@ export default function Home() {
         if you have any questions or opportunities you'd like to discuss. 🚀
         What's next on our coding adventure?
       </p>
-
-
-
-
-      
-
       <Footer></Footer>
     </div>
   );
