@@ -26,6 +26,9 @@ export default function Home() {
       </p>
       <Footer></Footer>
       <Hero2/>
+      console.log("hi every one")
     </div>
   );
 }
+
+// console.log("hi every one")
