@@ -17,9 +17,9 @@ function Page() {
         applications. It offers a host of features including automatic static
         optimization, server-side rendering, dynamic routing, and support for
         API routes, all while maintaining a great developer experience. Whether
-        you're building complex web applications or static websites, Next.js
+        you are building complex web applications or static websites, Next.js
         provides the performance and scalability needed to deliver fast, modern,
-        and highly interactive user experiences. 🚀 What's the next piece of the
+        and highly interactive user experiences. 🚀 What is the next piece of the
         puzzle for your project?
       </p>
 

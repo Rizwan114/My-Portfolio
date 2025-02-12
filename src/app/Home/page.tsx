@@ -12,13 +12,13 @@ const Page = () => {
       <p>
         Welcome to my portfolio! This home page is a showcase of my skills,
         projects, and experiences as a web developer, all powered by Next.js.
-        Here, you'll get an insight into my journey in the tech world, from the
-        innovative projects I've built to the technical expertise I've developed
+        Here, you will get an insight into my journey in the tech world, from the
+        innovative projects I have built to the technical expertise I have developed
         along the way. Through this portfolio, I aim to demonstrate my passion
         for creating dynamic and responsive web applications using modern
         technologies. Feel free to explore and reach out via the contact section
-        if you have any questions or opportunities you'd like to discuss. 🚀
-        What's next on our coding adventure?
+        if you have any questions or opportunities you did like to discuss. 🚀
+        What is next on our coding adventure?
       </p>
 
       <Footer></Footer>
